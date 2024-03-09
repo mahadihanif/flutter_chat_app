@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-You can download the APK from here: https://drive.google.com/file/d/13o88acmsc7fXD8UT_wMXh3laAPfMAz7Z/view?usp=drive_link
+You can download the APK from here: https://drive.google.com/file/d/13o88acmsc7fXD8UT_wMXh3laAPfMAz7Z/view?usp=sharing
 
 1. Animation Flash Screen
    ![1](https://drive.google.com/file/d/17g4uJt5qOhXbcwIWSs5qHN8Xxtry9CIs/view?usp=drive_link)
